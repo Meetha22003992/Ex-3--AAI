@@ -119,5 +119,3 @@ print(query_result)
 ## Result:
 Thus, Gibb's Sampling( Approximate Inference method) is succuessfully implemented using python.
 
-Result:
-Thus, Gibb's Sampling( Approximate Inference method) is succuessfully implemented using python.
